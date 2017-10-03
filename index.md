@@ -1,8 +1,6 @@
 ## No Idea What I'm Doing...
 
- {% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
- {% endraw %}
+Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
 
 ## Welcome to GitHub Pages
 
