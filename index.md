@@ -1,6 +1,7 @@
 ## No Idea What I'm Doing...
 
 $$ E = m\cdot c^2 \label{eq:mc2}$$
+$ J(x) = \int{L(t, x, \dot{x}) dt} \$
 
 ## Welcome to GitHub Pages
 
