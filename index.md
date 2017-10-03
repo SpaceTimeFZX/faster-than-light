@@ -1,7 +1,6 @@
 ## No Idea What I'm Doing...
 
-"Let $\text{S}1(N) = \sum{p=1}^N \text{E}(p)$"
-
+$$ E = m\cdot c^2 \label{eq:mc2}$$
 
 ## Welcome to GitHub Pages
 
