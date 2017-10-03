@@ -1,3 +1,9 @@
+## No Idea What I'm Doing...
+
+ {% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+ {% endraw %}
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SpaceTimeFZX/faster-than-light.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
